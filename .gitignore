@@ -1,0 +1,13 @@
+doc/gost28147-89.aux
+doc/gost28147-89.log
+doc/gost28147-89.out
+doc/gost28147-89.synctex.gz
+doc/gost28147-89.toc
+
+testbench/*.vo
+testbench/*.vcd
+
+utils/*.o
+utils/benchmark
+utils/generator
+
